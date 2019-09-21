@@ -111,8 +111,8 @@ Otherwise, return *{status: "OPEN", change: [...]}*, with the change due in coin
 6. [Portfolio page on GitHub pages](https://aykuli.github.io/)
 7. ### Courses
    
-   -[x] [Профессиональный онлайн‑курс HTML и CSS, уровень 1](https://htmlacademy.ru/intensive/htmlcss) (I don't payed for it, just download it from rutracker.org/ Me mentor was my friend [Yulia Maximova](https://github.com/cybersunt) from Saint-Peterurg)
-   -[x] [Профессиональный онлайн‑курс HTML и CSS, уровень 2](https://htmlacademy.ru/intensive/adaptive) (passing now)
+   - [x] [Профессиональный онлайн‑курс HTML и CSS, уровень 1](https://htmlacademy.ru/intensive/htmlcss) (I don't payed for it, just download it from rutracker.org/ Me mentor was my friend [Yulia Maximova](https://github.com/cybersunt) from Saint-Peterurg)
+   - [x] [Профессиональный онлайн‑курс HTML и CSS, уровень 2](https://htmlacademy.ru/intensive/adaptive) (passing now)
    - [x] [Courses on freecodecamp.org](https://aykuli.github.io/certificates.html):
      - [x]  Responsive Web Design Certification (300 hours)
      - [x]  Javascript Algorithms And Data Structures Certification (300 hours)
