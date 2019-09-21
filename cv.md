@@ -20,27 +20,27 @@ Aynur Shauerman Junior Developer Resume
 
 [**Portfolio** on GitHub pages](https://aykuli.github.io/)
 
-** Education**
+**Education**
    
-[x] *HTMLAcademy.ru*
-- [Профессиональный онлайн‑курс HTML и CSS, уровень 1](https://htmlacademy.ru/intensive/htmlcss) (I don't payed for it, just download it from rutracker.org/ My mentor was my friend [Yulia Maximova](https://github.com/cybersunt) from Saint-Peterurg)
-- [Профессиональный онлайн‑курс HTML и CSS, уровень 2](https://htmlacademy.ru/intensive/adaptive) (passing now)
+* *HTMLAcademy.ru*
+    - [Профессиональный онлайн‑курс HTML и CSS, уровень 1](https://htmlacademy.ru/intensive/htmlcss) (I don't payed for it, just download it from rutracker.org/ My mentor was my friend [Yulia Maximova](https://github.com/cybersunt) from Saint-Peterurg)
+    - [Профессиональный онлайн‑курс HTML и CSS, уровень 2](https://htmlacademy.ru/intensive/adaptive) (passing now)
 
-[x] [freecodecamp.org](https://www.freecodecamp.org/aynur_shauerman):
-- Responsive Web Design Certification (300 hours)
-- Javascript Algorithms And Data Structures Certification (300 hours)
+* [freecodecamp.org](https://www.freecodecamp.org/aynur_shauerman):
+    - Responsive Web Design Certification (300 hours)
+    - Javascript Algorithms And Data Structures Certification (300 hours)
  
-[x] [codeacademy.com](https://www.codecademy.com/users/aynurshauerman2519902566/achievements)
-- Introduction to HTML
-- Learn CSS
-- Make a Website
-- Learn Bootstrap
+* [codeacademy.com](https://www.codecademy.com/users/aynurshauerman2519902566/achievements)
+    - Introduction to HTML
+    - Learn CSS
+    - Make a Website
+    - Learn Bootstrap
 
-[x]  [www.futurelearn.com](https://www.futurelearn.com/certificates/neuizu4)
-- Digital Skills_User Experience
+*  [www.futurelearn.com](https://www.futurelearn.com/certificates/neuizu4)
+    - Digital Skills_User Experience
 
-[x] [Siberian State University of Telecommunication and Information Sciences](https://readera.org/spektralnye-sposoby-ocenki-napravlenija-istochnikov-signalov-v-adaptivnyh-14335004)
-- Faculty of radioelectronics
+* [Siberian State University of Telecommunication and Information Sciences](https://readera.org/spektralnye-sposoby-ocenki-napravlenija-istochnikov-signalov-v-adaptivnyh-14335004)
+    - Faculty of radioelectronics
 
 
 **Code example**
@@ -136,4 +136,3 @@ Otherwise, return *{status: "OPEN", change: [...]}*, with the change due in coin
     ['TWENTY', 60],
     ['ONE HUNDRED', 100],
     ]);
-    
