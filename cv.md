@@ -1,21 +1,50 @@
 Aynur Shauerman Junior Developer Resume
 =======================================
 
-1. **Name**: Aynur Shauerman
-2. **Contacts**: [@Sib_aynur](https://t.me/Sib_aynur),
-    <aykuli@ya.ru>
-    <https://github.com/aykuli>
-3. I like coding. It's appropriate extend from my love to mathematic. I was learning coding while being in parental leave.
-4.  **Languages**: JavaScript vanilla, HTML, CSS, Python, assembler, C51 for Aduc microcontrollers.
+**Name**: Aynur Shauerman, 32 years old
 
-    **Version control**: Git.
+**Contacts**:
+- [@Sib_aynur](https://t.me/Sib_aynur),
+- <aykuli@ya.ru>,
+- <https://github.com/aykuli>
 
 
-    **Frameworks, methodoligies**: Gulp, Sass, Pug, BEM.
+**About me**: I like coding. It's appropriate extend from my love to mathematic. I started learning coding while being in parental leave. I started learning JavaScript first. Then I learn HTML, CSS, GIT, preprocessors, task-runners, bundlers. Everything is so interesting, so I want to code and learn everytime. This is my passion.
+
+|**Languages**: | **Version control**:  | Frameworks, methodoligies | Tools                 |
+| ------------- | --------------------  | ------------------------  | -------------------   |
+| JavaScript    | Git                   | Sass/Scss                 | Visual Studio Code    |
+| HTML/CSS      |                       | Pug                       | Sublime               |
+| Python        |                       | Gulp                      | Photoshop             |
+|               |                       | BEM                       | Figma                 |
+
+[**Portfolio** on GitHub pages](https://aykuli.github.io/)
+
+** Education**
+   
+[x] *HTMLAcademy.ru*
+- [Профессиональный онлайн‑курс HTML и CSS, уровень 1](https://htmlacademy.ru/intensive/htmlcss) (I don't payed for it, just download it from rutracker.org/ My mentor was my friend [Yulia Maximova](https://github.com/cybersunt) from Saint-Peterurg)
+- [Профессиональный онлайн‑курс HTML и CSS, уровень 2](https://htmlacademy.ru/intensive/adaptive) (passing now)
+
+[x] [freecodecamp.org](https://www.freecodecamp.org/aynur_shauerman):
+- Responsive Web Design Certification (300 hours)
+- Javascript Algorithms And Data Structures Certification (300 hours)
+ 
+[x] [codeacademy.com](https://www.codecademy.com/users/aynurshauerman2519902566/achievements)
+- Introduction to HTML
+- Learn CSS
+- Make a Website
+- Learn Bootstrap
+
+[x]  [www.futurelearn.com](https://www.futurelearn.com/certificates/neuizu4)
+- Digital Skills_User Experience
+
+[x] [Siberian State University of Telecommunication and Information Sciences](https://readera.org/spektralnye-sposoby-ocenki-napravlenija-istochnikov-signalov-v-adaptivnyh-14335004)
+- Faculty of radioelectronics
 
 
-    **Tools**: Visual Studio Code, Sublime. Phototshop.
-5. ### Cash Register from FreeCodeCamp
+**Code example**
+### Cash Register from FreeCodeCamp
 **Task**: Design a cash register drawer function *checkCashRegister()* that accepts purchase price as the first argument (*price*), payment as the second argument (*cash*), and cash-in-drawer (*cid*) as the third argument.
 
 *cid* is a 2D array listing available currency.
@@ -107,19 +136,4 @@ Otherwise, return *{status: "OPEN", change: [...]}*, with the change due in coin
     ['TWENTY', 60],
     ['ONE HUNDRED', 100],
     ]);
-
-6. [Portfolio page on GitHub pages](https://aykuli.github.io/)
-7. ### Courses
-   
-   - [x] [Профессиональный онлайн‑курс HTML и CSS, уровень 1](https://htmlacademy.ru/intensive/htmlcss) (I don't payed for it, just download it from rutracker.org/ Me mentor was my friend [Yulia Maximova](https://github.com/cybersunt) from Saint-Peterurg)
-   - [x] [Профессиональный онлайн‑курс HTML и CSS, уровень 2](https://htmlacademy.ru/intensive/adaptive) (passing now)
-   - [x] [Courses on freecodecamp.org](https://aykuli.github.io/certificates.html):
-     - [x]  Responsive Web Design Certification (300 hours)
-     - [x]  Javascript Algorithms And Data Structures Certification (300 hours)
-   - [x]  Introduction to HTML from codeacademy.com
-   - [x]  Learn CSS
-   - [x]  Make a Website
-   - [x]  Learn Bootstrap
-   - [x]  [Digital Skills_User Experience from www.futurelearn.com](https://www.futurelearn.com/courses/digital-skills-user-experience)
-
-8.  English intermediate. Reading datasheets, documentations and talking english.
+    
