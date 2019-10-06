@@ -1,0 +1,91 @@
+
+:root {
+    --white: #D6D8DA;
+    --grey: #9DA594;
+    --black: #24292E;
+
+}
+/* scaffolding */
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: normal;
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--white);
+
+    background-color: var(--black);
+}
+
+a {
+    text-decoration: none;
+    color: var(--white);
+}
+
+a:hover {
+    color: var(--grey);
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid var(--grey);
+}
+
+th {
+    border-bottom: 2px solid var(--grey);
+}
+
+td, th {
+    padding: 10px;
+    border-right: 1px solid var(--grey);
+}
+
+tr:nth-child(2n) {
+    background-color: #54575B;
+}
+
+/* end of scaffolding */
+
+.page__wrap {
+    padding: 20px;
+}
+
+.page-header,
+.skills,
+.portfolio,
+.education {
+    margin-bottom: 50px;
+}
+
+.main-nav__list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+}
+
+.main-nav__item {
+    margin-right: 20px;
+}
+
+.present {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.present__wrap {
+    min-width: 300px;
+    margin-right: 40px;
+}
+
+.present__name {
+    display: block;
+}
+
+.code-example__title {
+    margin-top: 50px;
+}
