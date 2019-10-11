@@ -1,1 +1,1 @@
-https://aykuli.github.io/rsschool-cv/cv
+[Aynur Shauerman portfolio](https://aykuli.github.io/rsschool-cv/cv)
